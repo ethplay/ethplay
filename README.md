@@ -1,4 +1,5 @@
-# ethplay #
+![ethplay](https://raw.githubusercontent.com/ethplay/ethplay/master/docs/ethplay.png)
+
 Ethplay is a decentralized autonomous ecosystem powering online gaming and casino applications on the ethereum blockchain.
 
 ## Unique features ##
