@@ -1,7 +1,7 @@
-# ethplay
+# ethplay #
 Ethplay is a decentralized autonomous ecosystem powering online gaming and casino applications on the ethereum blockchain.
 
-# Unique features of ethplay
+## Unique features ##
 
 * Users can play and host games. Games can be hosted without needing special programming skills. For instance, hosting a provably fair casino game on the ethereum blockchain is as easy as sending a transaction.
 
