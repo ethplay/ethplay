@@ -17,5 +17,3 @@ Ethplay is a decentralized autonomous ecosystem powering gaming applications on 
 * Proceeds will be transferred to token holders.
 
 * Platform governance by token holders: decisions on game promotion, network parameters and cost structure (planned).
-
-![overview of ethplay](https://raw.githubusercontent.com/ethplay/ethplay/master/docs/ethplay_overview.png)
