@@ -4,7 +4,7 @@ Ethplay is a decentralized autonomous ecosystem powering gaming applications on 
 
 ## Unique features ##
 
-* Users can play and host games. Games can be hosted without needing special programming skills. For instance, starting an instance of a provably fair casino game on the ethereum blockchain will be as easy as sending a transaction.
+* Users can play and host games. Games can be hosted without special programming skills. Starting an instance of a provably fair casino game on the ethereum blockchain will be as easy as sending a transaction.
 
 * Game developers can create and submit new game types and receive a share of proceeds throughout game lifetime.
 
