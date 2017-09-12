@@ -1,6 +1,6 @@
 Ethplay
 ========
- .. image:: ethplay.png
+ .. image:: ethplay_small.png
      :width: 200px
      :alt: Ethplay logo
      :align: center
