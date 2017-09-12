@@ -10,6 +10,10 @@ Welcome to Ethplay's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+What is Ethplay?
+----------------
+Ethplay is a platform for implementation and management of gaming applications on the Ethereum blockchain.
+Using a network of smart-contracts, Ethplay has a flexible and extensible architecture.
 
 
 Indices and tables
