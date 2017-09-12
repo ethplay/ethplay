@@ -1,17 +1,7 @@
-.. Ethplay documentation master file, created by
-   sphinx-quickstart on Mon Sep 11 22:33:54 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Ethplay
 ========
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
- .. image:: _static/ethplay.png
-     :width: 120px
+ .. image:: ethplay.png
+     :width: 200px
      :alt: Ethplay logo
      :align: center
 
