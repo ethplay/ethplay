@@ -5,18 +5,29 @@ Ethplay
      :alt: Ethplay logo
      :align: center
 
-Ethplay is a platform for implementation and management of gaming applications on the Ethereum blockchain. Ethplay provides the basis functionalities, so that anyone can create and own a game on ethereum easily. Using Ethplay, starting a game instance is as easy as sending a transaction.
-Using a network of smart-contracts, Ethplay has a flexible and extensible architecture.
+Ethplay is a platform for implementation and management of gaming applications on the Ethereum blockchain.
+
+Ethplay provides basis functionalities for managing interactions between game developers, game hosts, players, investors, advertisers, and more.
+Using Ethplay, hosting a game is as easy as sending a transaction.
+
+Ethplay aims to become a Distributed Autonomous Organization (DAO), completely owned and managed by its token holders.
 
 Useful Links
 ------------
-Ethplay website
-Code (Github)
+* `Ethplay website <http://ethplay.github.io>`_
+* `Ethplay code <https://github.com/ethplay>`_
+* `Ethereum <https://ethereum.org>`_
 
 
-Indices and tables
-==================
+Contents
+========
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+:ref:`Keyword Index <genindex>`, :ref:`Search Page <search>`
+
+.. toctree::
+   :maxdepth: 2
+
+   hosting_games.rst
+   game_creation_for_developers.rst
+   ethplay_token.rst
+   random_number_generation.rst
