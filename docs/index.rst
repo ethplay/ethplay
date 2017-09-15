@@ -38,6 +38,15 @@ Casino games
 * A central smart contract (House) acts as the hub for managing different game types, game instances, players, and game-user interactions.
 * Ethplay provides secure random number generation to all game instances that request it.
 
+European Roulette
+.................
+
+
+
+American Roulette
+.................
+
+
 
 Lottery
 +++++++
@@ -56,7 +65,6 @@ Game Development
 
 Backend
 +++++++
-
 
 
 Frontend
